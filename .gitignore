@@ -9,3 +9,4 @@ debug.log
 .idea/workspace.xml
 chap4/.ipynb_checkpoints/4.1.2 IRISデータの標準化-checkpoint.ipynb
 .idea/workspace.xml
+*.html
